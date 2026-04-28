@@ -1,6 +1,7 @@
 # Hi, I'm Giovanni! 👋
 
 **MSc Student in Mechatronic Engineering @ Politecnico di Torino**
+
 *BSc in Computer and Automation Engineering (110 Cum Laude) @ Università Politecnica delle Marche*
 
 I am a computer and automation engineer currently pursuing an MSc in Mechatronics Engineering, with a strong passion for bridging the gap between software, physical infrastructure, and the real world. In my free time, I design system architectures, develop DevOps tools, manage complex self-hosted services and sometimes I design and build backend services for other people's projects.
